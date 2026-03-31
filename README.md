@@ -9,10 +9,10 @@ Incluye herramientas para conversión de edades espaciales, cálculo de días vi
 
 | Script | Descripción |
 | :--- | :--- |
-| **aleatorios.py** | Generación y graficación de 100 números aleatorios. |
-| **conversion.py** | Conversión de edad terrestre a años en otros planetas. |
-| **calculadora.py** | Calculadora aritmética con menú de opciones. |
-| **calculadora_dias.py** | Cálculo de días transcurridos desde la fecha de nacimiento. |
+| **Gráficos.py** | Generación y graficación de 100 números aleatorios. |
+| **Conversion.py** | Conversión de edad terrestre a años en otros planetas. |
+| **Calculadora.py** | Calculadora aritmética con menú de opciones. |
+| **Calculadora de dias.py** | Cálculo de días transcurridos desde la fecha de nacimiento. |
 | **irisJupyter.ipynb** | Análisis y visualización de la distribución del dataset Iris. |
 
 
