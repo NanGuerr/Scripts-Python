@@ -1,4 +1,4 @@
-#Repositorio de utilidades Python y Data Science.
+# Repositorio de utilidades Python y Data Science.
 
 Colección de scripts en Python para cálculos y visualización de datos. 
 Incluye herramientas para conversión de edades espaciales, cálculo de días vividos, operaciones matemáticas básicas y ejemplos de graficación de datos con Matplotlib y Jupyter Notebooks.
